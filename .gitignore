@@ -27,3 +27,6 @@ configure
 test/vkrs.unsorted.hex
 test/rsvk.unsorted.hex
 test/nrvk.unsorted.tsv
+
+build
+cmake-build-debug

@@ -30,6 +30,7 @@ THE SOFTWARE.  */
 #include <strings.h>
 #include <htslib/bgzf.h>
 #include <htslib/tbx.h>
+#include <getopt.h>
 
 int main_tabix(int argc, char *argv[])
 {

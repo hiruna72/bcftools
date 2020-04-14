@@ -53,6 +53,8 @@
 #define CN2 2
 #define CN3 3
 
+# define M_PI           3.14159265358979323846  /* pi */
+
 typedef struct
 {
     float mean, dev2, norm;

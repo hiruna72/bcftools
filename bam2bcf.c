@@ -34,7 +34,7 @@ DEALINGS IN THE SOFTWARE.  */
 #include "bam2bcf.h"
 
 extern  void ks_introsort_uint32_t(size_t n, uint32_t a[]);
-
+# define M_PI           3.14159265358979323846  /* pi */
 #define CALL_DEFTHETA 0.83
 #define DEF_MAPQ 20
 
